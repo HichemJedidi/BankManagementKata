@@ -22,7 +22,6 @@ import sgcbi.kata.bankManagement.repositories.BankAccountRepository;
 import sgcbi.kata.bankManagement.repositories.OperationRepository;
 import sgcbi.kata.bankManagement.service.OperationService;
 
-
 import java.time.Instant;
 import java.util.Optional;
 import java.util.stream.Stream;
